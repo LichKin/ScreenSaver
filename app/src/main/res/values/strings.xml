@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="screen_saver_period">
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>1分钟</item>
+        <item>2分钟</item>
+        <item>3分钟</item>
+        <item>4分钟</item>
+        <item>5分钟</item>
+    </string-array>
+
+    <string name="app_name">ScreenSaver</string>
+
+    <string name="period_desp">请选择锁屏时间</string>
+    <string name="choose_desp">请选屏保文件(视频或者图片)</string>
+</resources>
